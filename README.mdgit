@@ -1,0 +1,1 @@
+"# responsive"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/MildredCox/responsive.gitgit push -u origin master
